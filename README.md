@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Amazon Management System
+=======
+# Warehouse-Management-System
+>>>>>>> 7bdcbbe1b72197fe081e1b2a23f3358dfc454a5e
 
 A web-based application built with the Laravel framework to manage products, orders, and customers for an e-commerce platform. This project serves as a robust backend solution for handling core e-commerce operations.
 
@@ -75,6 +79,7 @@ Make sure you have the following software installed on your system:
     php artisan serve
     ```
     The application will be available at `http://127.0.0.1:8000`.
+<<<<<<< HEAD
 
 ## License
 
@@ -142,3 +147,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+>>>>>>> 7bdcbbe1b72197fe081e1b2a23f3358dfc454a5e
